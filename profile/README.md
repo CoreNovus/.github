@@ -8,7 +8,6 @@ Today’s rapid progress in LLMs, vision models, and on-device intelligence brin
 Our work is grounded in a simple question:
 **How do we turn fast-moving AI technology into products that matter in the real world?**
 
----
 
 ## ⚡ What We Are Building
 
@@ -24,7 +23,6 @@ Our approach:
 
 We treat each product as both a practical tool and a stepping stone toward Embodied AI.
 
----
 
 ## ⚙️ The Stack, in Brief
 
@@ -35,7 +33,6 @@ We treat each product as both a practical tool and a stepping stone toward Embod
 
 These components form the early infrastructure for systems that can observe, decide, and act.
 
----
 
 ## 🔭 The Long-Term Direction: Robotics
 
@@ -49,7 +46,6 @@ We aim to adapt our stack to support:
 Embodied AI will not emerge from theory alone; it needs iterative, commercially grounded development.
 We build now so the transition to robotics is natural, not hypothetical.
 
----
 
 ## 🤝 For Developers & Builders
 
@@ -57,3 +53,9 @@ We welcome developers, researchers, and industry partners interested in the inte
 If you are exploring agent systems, embedded AI, or early-stage robotics, this is the ecosystem we are building for you.
 
 Together, we hope to bridge fast-moving AI research with the stability and usefulness required for products that endure.
+
+
+## 🪐 Official Website
+
+👉 [https://ainalyn.com  ](https://ainalyn.corenovus.com/)  
+👉 [https://spatialyn.com  ](https://spatialyn.corenovus.com/)
