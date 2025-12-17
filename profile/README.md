@@ -57,5 +57,6 @@ Together, we hope to bridge fast-moving AI research with the stability and usefu
 
 ## 🪐 Official Website
 
+👉 [https://corenovus.com  ](https://corenovus.com/)  
 👉 [https://ainalyn.com  ](https://ainalyn.corenovus.com/)  
 👉 [https://spatialyn.com  ](https://spatialyn.corenovus.com/)
