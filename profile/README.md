@@ -125,7 +125,6 @@ We are building foundations.
 ---
 
 **CoreNovus** — [https://corenovus.com](https://corenovus.com)  
-**Ainalyn** — [https://ainalyn.corenovus.com](https://ainalyn.corenovus.com) 
-**Verilyn** - [http://verily.corenovus.com/](http://verily.corenovus.com/)  
+**Ainalyn** — [https://ainalyn.corenovus.com](https://ainalyn.corenovus.com)
 
 — CoreNovus
